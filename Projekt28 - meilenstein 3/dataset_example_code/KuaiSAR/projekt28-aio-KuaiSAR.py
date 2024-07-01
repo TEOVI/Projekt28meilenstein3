@@ -297,7 +297,7 @@ def main():
         np.exp(trace.posterior), var_names=[
             "Intercept",
             "days_since_signup",
-        ]
+        ],round_to=6
     )
 
     exp_coeff_table
@@ -315,7 +315,7 @@ def main():
             "1|day_index_sigma",
             "1|user_sigma",
             "variety_alpha"
-        ]
+        ],round_to=6
     )
 
     coeff_table
