@@ -3,7 +3,8 @@
 """
 This code was written by the authors of the paper "How Should We Measure Filter
 Bubbles? A Regression Model and Evidence for Online News" and then modified by
-the authors of the paper "insert our paper-name here" to fit their needs.
+the authors of the paper "Reproducing the Measurement of Filter Bubbles - Machine 
+Learning Internship - Project 28" to fit their needs.
 """
 
 from bertopic import BERTopic
