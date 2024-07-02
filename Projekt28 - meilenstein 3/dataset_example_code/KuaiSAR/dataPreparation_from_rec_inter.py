@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
 """
-This code was written by the authors of the paper "insert our paper-name here".
+This code was written by the authors of the paper "Reproducing the 
+Measurement of Filter Bubbles - Machine Learning Internship - Project 28".
 """
 
 from datetime import datetime
